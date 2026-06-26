@@ -174,7 +174,7 @@ namespace Builder
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Cannot open file", $"Error opening file{ex.Message}", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Cannot open file{ex.Message}", $"Error opening file", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             finally
             {
