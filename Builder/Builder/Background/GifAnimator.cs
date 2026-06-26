@@ -37,5 +37,7 @@ namespace Builder.Background
                 g.DrawImage(gif, rect);
             }
         }
+
+
     }
 }

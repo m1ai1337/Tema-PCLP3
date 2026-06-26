@@ -96,6 +96,7 @@ namespace Builder
             //MessageBox.Show($"font: {fontName?.Name} bold:{fontName?.Bold} | {fontText?.Name} bold:{fontText?.Bold}");
             var scene = data[sceneName];
             currentScene = scene;
+
             gif = new GifAnimator(scene.pathBackgorund);
 
             gif.OnFrameUpdate = () =>
