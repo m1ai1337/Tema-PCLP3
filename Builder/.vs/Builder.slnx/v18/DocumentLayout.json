@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\builder\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\builder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\dialog\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\dialog\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\background\\gifanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\background\\gifanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\blockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\blockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\scene\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\scene\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\dialog\\dialogsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\dialog\\dialogsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\builder\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\scene\\scenedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\scene\\scenedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\view.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\view.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\blockcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\blockcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\blockcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\blockcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\builder\\blockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\blockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\form2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\form2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\translucentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\translucentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\builder\\translucentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\translucentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|c:\\users\\mnxnc\\desktop\\proiect pclp\\tema pclp3\\builder\\builder\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{046E746F-0D49-ADED-C09E-82E7BB7CCBCE}|Builder\\Builder.csproj|solutionrelative:builder\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C793E2-C2D1-4CD1-9421-66DFD20C0096}|Builder\\Builder.csproj|C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\builder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C793E2-C2D1-4CD1-9421-66DFD20C0096}|Builder\\Builder.csproj|solutionrelative:builder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form2.cs",
+              "RelativeDocumentMoniker": "Builder\\Form2.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form2.cs",
+              "RelativeToolTip": "Builder\\Form2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T16:42:02.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Block.cs",
+              "RelativeDocumentMoniker": "Builder\\Block.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Block.cs",
+              "RelativeToolTip": "Builder\\Block.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:27:37.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form1.cs",
+              "RelativeDocumentMoniker": "Builder\\Form1.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form1.cs",
+              "RelativeToolTip": "Builder\\Form1.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAuwFsBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T16:24:57.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GifAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Background\\GifAnimator.cs",
+              "RelativeDocumentMoniker": "Builder\\Background\\GifAnimator.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Background\\GifAnimator.cs",
+              "RelativeToolTip": "Builder\\Background\\GifAnimator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:49:14.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\View.cs",
+              "RelativeDocumentMoniker": "Builder\\View.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\View.cs",
+              "RelativeToolTip": "Builder\\View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:27:40.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form1.cs",
+              "RelativeDocumentMoniker": "Builder\\Form1.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Builder\\Builder\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Builder\\Builder\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:26:33.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form2.cs",
+              "RelativeDocumentMoniker": "Builder\\Form2.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Builder\\Builder\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\Builder\\Builder\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T16:42:02.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlockControl.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\BlockControl.cs",
+              "RelativeDocumentMoniker": "Builder\\BlockControl.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\BlockControl.cs",
+              "RelativeToolTip": "Builder\\BlockControl.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAA5wIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T16:23:17.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dialog.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Dialog\\Dialog.cs",
+              "RelativeDocumentMoniker": "Builder\\Dialog\\Dialog.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Dialog\\Dialog.cs",
+              "RelativeToolTip": "Builder\\Dialog\\Dialog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:32:57.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Scene\\Choice.cs",
+              "RelativeDocumentMoniker": "Builder\\Scene\\Choice.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Scene\\Choice.cs",
+              "RelativeToolTip": "Builder\\Scene\\Choice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:31:05.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DialogSystem.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Dialog\\DialogSystem.cs",
+              "RelativeDocumentMoniker": "Builder\\Dialog\\DialogSystem.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Dialog\\DialogSystem.cs",
+              "RelativeToolTip": "Builder\\Dialog\\DialogSystem.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:33:03.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "View.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\View.cs",
+              "RelativeDocumentMoniker": "Builder\\View.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Builder\\Builder\\View.cs [Design]",
+              "RelativeToolTip": "..\\..\\Builder\\Builder\\View.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T16:48:06.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:27:23.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SceneData.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Scene\\SceneData.cs",
+              "RelativeDocumentMoniker": "Builder\\Scene\\SceneData.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Scene\\SceneData.cs",
+              "RelativeToolTip": "Builder\\Scene\\SceneData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T16:23:10.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "View.resx",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\View.resx",
+              "RelativeDocumentMoniker": "Builder\\View.resx",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\View.resx",
+              "RelativeToolTip": "Builder\\View.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-25T21:42:59.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlockControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\BlockControl.Designer.cs",
+              "RelativeDocumentMoniker": "Builder\\BlockControl.Designer.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\BlockControl.Designer.cs",
+              "RelativeToolTip": "Builder\\BlockControl.Designer.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAApwO4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:30:52.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlockControl.resx",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\BlockControl.resx",
+              "RelativeDocumentMoniker": "Builder\\BlockControl.resx",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\BlockControl.resx",
+              "RelativeToolTip": "Builder\\BlockControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-23T15:30:53.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlockControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\BlockControl.cs",
+              "RelativeDocumentMoniker": "Builder\\BlockControl.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Builder\\Builder\\BlockControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\Builder\\Builder\\BlockControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T16:23:15.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form2.resx",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form2.resx",
+              "RelativeDocumentMoniker": "Builder\\Form2.resx",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form2.resx",
+              "RelativeToolTip": "Builder\\Form2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-24T19:57:21.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Builder\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form1.Designer.cs",
+              "RelativeToolTip": "Builder\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T19:36:51.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Builder\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form2.Designer.cs",
+              "RelativeToolTip": "Builder\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:06:12.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Builder.csproj",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Builder.csproj",
+              "RelativeDocumentMoniker": "Builder\\Builder.csproj",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Builder.csproj",
+              "RelativeToolTip": "Builder\\Builder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T19:23:28.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "View.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\View.Designer.cs",
+              "RelativeDocumentMoniker": "Builder\\View.Designer.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\View.Designer.cs",
+              "RelativeToolTip": "Builder\\View.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:27:41.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TranslucentPanel.cs",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\TranslucentPanel.cs",
+              "RelativeDocumentMoniker": "Builder\\TranslucentPanel.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\TranslucentPanel.cs",
+              "RelativeToolTip": "Builder\\TranslucentPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:40:06.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TranslucentPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\TranslucentPanel.cs",
+              "RelativeDocumentMoniker": "Builder\\TranslucentPanel.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Builder\\Builder\\TranslucentPanel.cs [Design]",
+              "RelativeToolTip": "..\\..\\Builder\\Builder\\TranslucentPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:42:10.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form1.resx",
+              "RelativeDocumentMoniker": "Builder\\Form1.resx",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form1.resx",
+              "RelativeToolTip": "Builder\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-23T14:37:36.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Tema PCLP3\\Builder\\Builder\\Form1.cs",
+              "RelativeDocumentMoniker": "Builder\\Form1.cs",
+              "ToolTip": "C:\\Users\\mnxnc\\Desktop\\proiect pclp\\Builder\\Builder\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Builder\\Builder\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:11:07.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
