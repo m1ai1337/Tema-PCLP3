@@ -133,7 +133,12 @@ namespace Builder
                 if (row.IsNewRow) continue;
 
                 string name = row.Cells["Nume"].Value?.ToString() ?? string.Empty;
-                string text = row.Cells["Text"].Value?.ToString()?.Replace("\\n", Environment.NewLine) ?? string.Empty;
+                string text = row.Cells["Text"].Value?.ToString() ?? string.Empty;
+
+                text = text
+                    .Replace("\\r\\n", Environment.NewLine)
+                    .Replace("\\n", Environment.NewLine)
+                    .Replace("\\r", "\r");
 
                 if (!string.IsNullOrWhiteSpace(name) || !string.IsNullOrWhiteSpace(text))
                     list.Add(new DialogLine(name, text));

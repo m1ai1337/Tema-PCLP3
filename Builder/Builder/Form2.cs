@@ -81,7 +81,11 @@ namespace Builder
         private void Form2_Resize(object sender, EventArgs e)
         {
             _size = new Vector2(this.ClientSize.Width, this.ClientSize.Height);
-            _b.Resize(_size);
+           
+            if (_b != null)
+            {
+              _b.Resize(_size);
+            }
         }
 
         private void Form2_Click(object sender, EventArgs e)
